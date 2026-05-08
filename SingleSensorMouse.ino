@@ -1,3 +1,4 @@
+// Documentation update by SK3307
 #include <Arduino.h>
 // ---------------------------------------------------------------------------
 // Pin definitions
@@ -225,3 +226,4 @@ void loop() {
     }
     loopCount =1;
 }
+//Added documentation comment
