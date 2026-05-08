@@ -1,3 +1,5 @@
+/// Documentation update by SK3307
+//Added documentation comment
 #include <Arduino.h>
 // ---------------------------------------------------------------------------
 // Pin definitions
